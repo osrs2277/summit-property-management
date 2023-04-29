@@ -27,7 +27,7 @@ export const ContactWrapper = styled.div`
 export const ContactH1 = styled.h1`
     font-size: 2rem;
     color: #0d0d0d;
-    margin-bottom: 100px;
+    margin-bottom: 25px;
 
     @media screen and (max-width: 480px) {
         font-size: 1.75rem;
@@ -50,6 +50,6 @@ export const SocialIcons = styled.div`
 
 export const SocialIconLink = styled.a`
     color: #0d0d0d;
-    font-size: 3rem;
+    font-size: 2rem;
     text-decoration: none;
 `;

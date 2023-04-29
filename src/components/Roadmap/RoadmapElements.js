@@ -22,6 +22,11 @@ export const RoadmapWrapper = styled.div`
         grid-template-columns: 1fr 1fr;
         grid-gap: 4px;
     }
+
+    @media screen and (max-width: 407px) {
+        grid-template-columns: 1fr;
+        grid-gap: 4px;
+    }
 `;
 
 export const RoadmapCard = styled.div`

@@ -46,7 +46,7 @@ const InfoSection = () => {
                         We will assist you in the process of preparing your home
                         for short term rentals. We will help you gather all the
                         necessary items to allow every guest to enjoy their stay
-                        to the full potential.
+                        to the fullest potential.
                     </AboutP>
                 </AboutCard>
                 <AboutCard data-aos="fade-up">

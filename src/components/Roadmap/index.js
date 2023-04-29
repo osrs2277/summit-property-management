@@ -19,9 +19,9 @@ const Roadmap = () => {
                     <RoadmapH3>_____</RoadmapH3>
                     <RoadmapP>
                         Our clients' property will be posted on all top rental
-                        sites (Airbnb, VRBO and HomeAway). With our extensive
-                        experience and background, renters will have a high
-                        level of reassurance for their next trip!
+                        sites (Airbnb, VRBO and HomeAway). With our experience
+                        and background, renters will have a high level of
+                        reassurance for their next trip!
                     </RoadmapP>
                 </RoadmapCard>
                 <RoadmapCard data-aos="fade-up">

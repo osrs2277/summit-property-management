@@ -53,7 +53,51 @@ function ContactSection() {
                     <FaCalendarAlt />
                 </SocialIconLink>
             </ContactWrapper>
-            <ContactText>Mon - Sun, 8am - 8pm</ContactText>
+            <ContactText>Mon - Sun, 8am - 8pm EST</ContactText>
+            <form
+                target="_blank"
+                action="https://formsubmit.co/summit.propeties.llc1@gmail.com"
+                method="POST"
+                class="d-grid gap-2 col-6 mx-auto"
+            >
+                <div class="form-group">
+                    <div class="form-row">
+                        <div class="col">
+                            <input
+                                type="text"
+                                name="name"
+                                class="form-control"
+                                placeholder="Full Name"
+                                required
+                            ></input>
+                        </div>
+                        <br></br>
+                        <div class="col">
+                            <input
+                                type="email"
+                                name="email"
+                                class="form-control"
+                                placeholder="Email Address"
+                                required
+                            ></input>
+                        </div>
+                    </div>
+                </div>
+                <br></br>
+                <div class="form-group">
+                    <textarea
+                        placeholder="Your Message"
+                        class="form-control"
+                        name="message"
+                        rows="10"
+                        required
+                    ></textarea>
+                </div>
+                <br></br>
+                <button type="submit" class="btn btn-lg btn-dark btn-block">
+                    Submit Form
+                </button>
+            </form>
         </ContactContainer>
     );
 }
