@@ -9,7 +9,7 @@ export const Data = [
     },
     {
         question: "Am I locked into a contract?",
-        answer: "There are no penalties or fees embedded in our contract. We only ask for a 2 month notice and to honor all future bookings already scheduled.",
+        answer: "There are no penalties or fees embedded in our contract. We only ask for a 90 day notice and to honor all future bookings already scheduled.",
     },
     {
         question: "Who does the maintenance on my home?",

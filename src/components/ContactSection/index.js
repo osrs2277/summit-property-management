@@ -34,7 +34,7 @@ function ContactSection() {
             </ContactText>
             <ContactWrapper>
                 <SocialIconLink
-                    href="mailto:summit.propeties.llc1@gmail.com"
+                    href="mailto:summit.properties.llc1@gmail.com"
                     target="_blank"
                     aria-label="Email"
                 >
@@ -42,11 +42,11 @@ function ContactSection() {
                 </SocialIconLink>
             </ContactWrapper>
             <ContactText
-                href="mailto:summit.propeties.llc1@gmail.com"
+                href="mailto:summit.properties.llc1@gmail.com"
                 target="_blank"
                 aria-label="Email"
             >
-                summit.propeties.llc1@gmail.com
+                summit.properties.llc1@gmail.com
             </ContactText>
             <ContactWrapper>
                 <SocialIconLink target="_blank" aria-label="Hours">
@@ -56,7 +56,7 @@ function ContactSection() {
             <ContactText>Mon - Sun, 8am - 8pm EST</ContactText>
             <form
                 target="_blank"
-                action="https://formsubmit.co/summit.propeties.llc1@gmail.com"
+                action="https://formsubmit.co/summit.properties.llc1@gmail.com"
                 method="POST"
                 class="d-grid gap-2 col-6 mx-auto"
             >
