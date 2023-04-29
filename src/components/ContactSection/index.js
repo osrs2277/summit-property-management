@@ -81,6 +81,16 @@ function ContactSection() {
                                 required
                             ></input>
                         </div>
+                        <br></br>
+                        <div class="col">
+                            <input
+                                type="tel"
+                                name="tel"
+                                class="form-control"
+                                placeholder="Phone Number"
+                                required
+                            ></input>
+                        </div>
                     </div>
                 </div>
                 <br></br>
